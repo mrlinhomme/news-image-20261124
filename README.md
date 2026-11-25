@@ -1,3 +1,11 @@
+[![make.fun](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+
+![rank](https://make.fun/badge/news-image-20261124/mrlinhomme/news-image-20261124/rank.svg)
+
+![reward](https://make.fun/badge/news-image-20261124/mrlinhomme/news-image-20261124/reward.svg)
+
+[参赛悬赏：Sum up 24 November's world news in one image](https://make.fun/bounty/news-image-20261124)
+
 # make.fun 参赛作品：Sum up 24 November's world news in one image
 
 ## 悬赏信息（以官网页面为准，2026-11-25 09:30 核实）
